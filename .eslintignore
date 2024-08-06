@@ -1,2 +1,3 @@
 lib/*.*
 dist/*.*
+src/frequency_lists.ts
