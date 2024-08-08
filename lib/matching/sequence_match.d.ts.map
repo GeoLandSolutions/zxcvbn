@@ -1,0 +1,1 @@
+{"version":3,"file":"sequence_match.d.ts","sourceRoot":"","sources":["../../src/matching/sequence_match.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAE,MAAM,WAAW,CAAC;AAInC,MAAM,WAAW,cAAe,SAAQ,MAAM;IAC5C,OAAO,EAAE,UAAU,CAAC;IACpB,aAAa,EAAE,MAAM,CAAC;IACtB,cAAc,EAAE,MAAM,CAAC;IACvB,SAAS,EAAE,OAAO,CAAC;CACpB;AA2CD,wBAAgB,cAAc,CAAC,QAAQ,EAAE,MAAM,GAAG,cAAc,EAAE,CAqCjE"}
