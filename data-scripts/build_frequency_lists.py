@@ -1,7 +1,6 @@
 #!/usr/bin/python
 import os
 import sys
-import time
 import codecs
 
 from operator import itemgetter
@@ -31,12 +30,12 @@ passed data dir, or vice-versa.
 
 # maps dict name to num words. None value means "include all words"
 DICTIONARIES = dict(
-    us_tv_and_film=2000,
+    us_tv_and_film=1,
     english_wikipedia=2000,
-    passwords=10000,
-    surnames=5000,
-    male_names=None,
-    female_names=None,
+    passwords=5000,
+    surnames=3000,
+    male_names=3000,
+    female_names=3000,
 )
 
 # returns {list_name: {token: rank}}, as tokens and ranks occur in each file.
