@@ -30,8 +30,7 @@
     "lint:fix": "eslint ./src --fix && eslint ./test --fix",
     "format": "prettier --write \"./src/**/*.ts\" && prettier --write \"./test/**/*.ts\"",
     "prepublishOnly": "npm run build",
-    "commit": "cz",
-    "prepare": "husky install"
+    "commit": "cz"
   },
   "lint-staged": {
     "**/*.ts": [
